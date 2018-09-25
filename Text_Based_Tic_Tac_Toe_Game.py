@@ -1,5 +1,4 @@
 import random
-import numpy
 win=str()
 def check(bb):
 	global win
